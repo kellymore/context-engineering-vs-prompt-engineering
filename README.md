@@ -1,6 +1,6 @@
 # Context Engineering: FastAPI Items Service
 
-This repository is a small, realistic FastAPI project built for teaching context engineering in Python codebases.
+This repository is a small, realistic FastAPI project built for teaching context engineering in Python codebases. Read the [Context Engineering vs Prompt Engineering](https://medium.com/@misskellymore/context-engineering-vs-prompt-engineering-b0e41987f91d) blog for a step by step explaination on working with AI agents in IDEs.
 
 It is intentionally simple in domain (an in-memory "items" API) but structured like a real project, with routing, models, storage, tests, and quality gates.
 
