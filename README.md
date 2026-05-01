@@ -1,4 +1,4 @@
-# Real Python Content Engineering: FastAPI Items Service
+# Context Engineering: FastAPI Items Service
 
 This repository is a small, realistic FastAPI project built for teaching context engineering in Python codebases.
 
